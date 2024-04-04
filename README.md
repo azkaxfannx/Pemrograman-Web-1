@@ -55,12 +55,12 @@
       <details>
         <summary><a href="#css">CSS</a></summary>
         <ul>
-          <li><a href="#css-home">CSS Home</a></li>
-          <li><a href="#css-introduction">CSS Introduction</a></li>
-          <li><a href="#css-syntax">CSS Syntax</a></li>
-          <li><a href="#css-selectors">CSS Selectors</a></li>
-          <li><a href="#css-how-to">CSS How To</a></li>
-          <li><a href="#css-comments">CSS Comments</a></li>
+          <li><a href="#CSS-Home">CSS Home</a></li>
+          <li><a href="#CSS-Introduction">CSS Introduction</a></li>
+          <li><a href="#CSS-Syntax">CSS Syntax</a></li>
+          <li><a href="#CSS-Selectors">CSS Selectors</a></li>
+          <li><a href="#CSS-How-To">CSS How To</a></li>
+          <li><a href="#CSS-Comments">CSS Comments</a></li>
           <li><a href="#css-colors">CSS Colors</a></li>
           <li><a href="#css-backgrounds">CSS Backgrounds</a></li>
           <li><a href="#css-borders">CSS Borders</a></li>
@@ -412,6 +412,36 @@ Tag-tag HTML memberitahu browser web bagaimana menampilkan konten halaman web, s
 ## CSS
 
 CSS (Cascading Style Sheets) adalah bahasa pemrograman yang digunakan untuk mengatur tampilan visual halaman web. CSS bekerja sama dengan HTML, yang digunakan untuk mendefinisikan struktur dan konten halaman web.
+
+* ## CSS-Home
+
+  Mengetahui seperti apa elemen CSS dan contoh tampilan dari elemen CSS
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/4cc78c5a-6ed9-4691-bea0-6ac7e3023d6e)
+
+* ## CSS-Introduction
+
+  Pengenalan CSS
+
+  Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sedikit elemen seperti `background-color`, `color`, dan `text-align`
+
+* ## CSS-Syntax
+
+  Sintaks CSS tersusun dari `Selectors` `{Declaration (Property, Value), Declaration (Property, Value)}`
+
+* ## CSS-Selectors
+
+  Untuk memilih (select) elemen HTML yang ingin diberi style, bisa dengan class, id, atau elemennya langsung. Contoh dengan elemennya langsung
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/5fa142c0-5d61-4d19-a076-c0020d2cc149)
+  
+* ## CSS-How-To
+
+  Pemakaian CSS bisa dengan inline, internal, eksternal
+
+* ## CSS-Comments
+
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

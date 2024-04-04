@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/06775e3c-7579-4adf-b8e1-f1e99902df20)<a name="readme-top"></a>
 
 <h1>Pemrograman Web 1</h1>
 
@@ -10,44 +10,44 @@
         <summary><a href="#html">HTML</a></summary>
         <ul>
           <li><a href="#HTML-Home">HTML Home</a></li>
-          <li><a href="#HTML Introduction">HTML Introduction</a></li>
-          <li><a href="#HTML Editors">HTML Editors</a></li>
-          <li><a href="#HTML Basic">HTML Basic</a></li>
-          <li><a href="#HTML Elements">HTML Elements</a></li>
-          <li><a href="#HTML Attributes">HTML Attributes</a></li>
-          <li><a href="#HTML Headings">HTML Headings</a></li>
-          <li><a href="#HTML Paragraph">HTML Paragraphs</a></li>
-          <li><a href="#HTML Styles">HTML Styles</a></li>
-          <li><a href="#HTML Formatting">HTML Formatting</a></li>
-          <li><a href="#HTML Quotations">HTML Quotations</a></li>
-          <li><a href="#HTML Comments">HTML Comments</a></li>
-          <li><a href="#HTML Colors">HTML Colors</a></li>
-          <li><a href="#HTML CSS">HTML CSS</a></li>
-          <li><a href="#HTML Links">HTML Links</a></li>
-          <li><a href="#html-images">HTML Images</a></li>
-          <li><a href="#html-fsvicon">HTML Favicon</a></li>
-          <li><a href="#html-page-title">HTML Page Title</a></li>
-          <li><a href="#html-tables">HTML Tables</a></li>
-          <li><a href="#html-lists">HTML Lists</a></li>
-          <li><a href="#html-block-inline">HTML Block & Inline</a></li>
-          <li><a href="#html-div">HTML Div</a></li>
-          <li><a href="#html-classes">HTML Classes</a></li>
-          <li><a href="#html-id">HTML Id</a></li>
-          <li><a href="#html-iframes">HTML Iframes</a></li>
-          <li><a href="#html-javascript">HTML Javascript</a></li>
-          <li><a href="#html-file-paths">HTML File Paths</a></li>
-          <li><a href="#html-head">HTML Head</a></li>
-          <li><a href="#html-layout">HTML Layout</a></li>
-          <li><a href="#html-responsive">HTML Responsive</a></li>
-          <li><a href="#html-computercode">HTML Computercode</a></li>
-          <li><a href="#html-semantics">HTML Semantics</a></li>
-          <li><a href="#html-style-guide">HTML Style Guide</a></li>
-          <li><a href="#html-entities">HTML Entities</a></li>
-          <li><a href="#html-symbols">HTML Symbols</a></li>
-          <li><a href="#html-emojis">HTML Emojis</a></li>
-          <li><a href="#html-charsets">HTML Charsets</a></li>
-          <li><a href="#html-url-encode">HTML URL Encode</a></li>
-          <li><a href="#html-xhtml">HTML vs XHTML</a></li>
+          <li><a href="#HTML-Introduction">HTML Introduction</a></li>
+          <li><a href="#HTML-Editors">HTML Editors</a></li>
+          <li><a href="#HTML-Basic">HTML Basic</a></li>
+          <li><a href="#HTML-Elements">HTML Elements</a></li>
+          <li><a href="#HTML-Attributes">HTML Attributes</a></li>
+          <li><a href="#HTML-Headings">HTML Headings</a></li>
+          <li><a href="#HTML-Paragraph">HTML Paragraphs</a></li>
+          <li><a href="#HTML-Styles">HTML Styles</a></li>
+          <li><a href="#HTML-Formatting">HTML Formatting</a></li>
+          <li><a href="#HTML-Quotations">HTML Quotations</a></li>
+          <li><a href="#HTML-Comments">HTML Comments</a></li>
+          <li><a href="#HTML-Colors">HTML Colors</a></li>
+          <li><a href="#HTML-CSS">HTML CSS</a></li>
+          <li><a href="#HTML-Links">HTML Links</a></li>
+          <li><a href="#HTML-Images">HTML Images</a></li>
+          <li><a href="#HTML-Favicon">HTML Favicon</a></li>
+          <li><a href="#HTML-Page-Title">HTML Page Title</a></li>
+          <li><a href="#HTML-Tables">HTML Tables</a></li>
+          <li><a href="#HTML-Lists">HTML Lists</a></li>
+          <li><a href="#HTML-Block-Inline">HTML Block & Inline</a></li>
+          <li><a href="#HTML-Div">HTML Div</a></li>
+          <li><a href="#HTML-Classes">HTML Classes</a></li>
+          <li><a href="#HTML-Id">HTML Id</a></li>
+          <li><a href="#HTML-Iframes">HTML Iframes</a></li>
+          <li><a href="#HTML-Javascript">HTML Javascript</a></li>
+          <li><a href="#HTML-File-Paths">HTML File Paths</a></li>
+          <li><a href="#HTML-Head">HTML Head</a></li>
+          <li><a href="#HTML-Layout">HTML Layout</a></li>
+          <li><a href="#HTML-Responsive">HTML Responsive</a></li>
+          <li><a href="#HTML-Computercode">HTML Computercode</a></li>
+          <li><a href="#HTML-Semantics">HTML Semantics</a></li>
+          <li><a href="#HTML-Style-Guide">HTML Style Guide</a></li>
+          <li><a href="#HTML-Entities">HTML Entities</a></li>
+          <li><a href="#HTML-Symbols">HTML Symbols</a></li>
+          <li><a href="#HTML-Emojis">HTML Emojis</a></li>
+          <li><a href="#HTML-Charsets">HTML Charsets</a></li>
+          <li><a href="#HTML-Url-Encode">HTML URL Encode</a></li>
+          <li><a href="#HTML-vs-XHTML">HTML vs XHTML</a></li>
         </ul>
       </details>
     </li>
@@ -193,87 +193,219 @@ Tag-tag HTML memberitahu browser web bagaimana menampilkan konten halaman web, s
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/0897811c-0298-4524-9d39-bc39a5e44ab8)
 
-* ## HTML Introduction
+* ## HTML-Introduction
 
   Pengenalan HTML
 
   Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sedikit tag seperti `<h1>`, `<p>`, dan `<br>`
 
-* ## HTML Editors
+* ## HTML-Editors
 
   Ada beberapa Code Editor yang biasa digunakan untuk membuat kode HTML, seperti `Sublime Text`, `VSCode`, dll 
   
-* ## HTML Basic
+* ## HTML-Basic
 
   Contoh kode basic atau dasar dari HTML
 
-* ## HTML Elements
+* ## HTML-Elements
 
   Mengenal element-element dari HTML seperti `<h1>`, `<p>`, dan `<br>`
 
-* ## HTML Attributes
+* ## HTML-Attributes
 
   Mengenal atribut-atribut dari HTML seperti `href` dari tag `<a>`, `src` dari tag `<img>`, dll
 
-* ## HTML Headings
+* ## HTML-Headings
 
   Judul (Heading) atau subjudul yang ingin ditampilkan pada halaman web. Tagnya ada `<h1>` sampai `<h6>`
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/1ba41c21-d765-48b3-a830-eca8f7c3ea4c)
 
-* ## HTML Paragraph
+* ## HTML-Paragraph
 
   Paragraf `<p>` selalu dimulai pada baris baru, dan biasanya berupa blok teks
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/ee511fb0-2307-4009-94b8-7519780ee2ed)
 
-* ## HTML Styles
+* ## HTML-Styles
 
   Atribut `style` HTML digunakan untuk menambahkan gaya pada sebuah elemen, seperti warna, font, ukuran, dan lainnya. Contohnya, `<h1>` dan `<p>` dipasang `style="text-align:center;"`
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/c542c39e-ff4b-4d00-af97-f76bc71c55bb)
 
-* ## HTML Formatting
+* ## HTML-Formatting
 
   HTML memiliki beberapa elemen untuk menampilkan teks dengan gaya khusus, contohnya dengan tag `<sup>`
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/bb1ba945-9913-42a5-b515-c53e8a2827d3)
 
-* ## HTML Quotations
+* ## HTML-Quotations
 
   Biasa digunakan untuk mengutip teks. Bisa juga untuk memanipulasi tampilan teks. Contoh, memanipulasi tampil teks yang sudah ada agar susunan hurufnya menjadi dari kanan ke kiri dengan `<bdo>`
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/e86d72d9-6b38-405a-8ecc-0333b5fcad78)
 
-* ## HTML Comments
+* ## HTML-Comments
 
   Digunakan untuk menambahkan komentar pada kode HTML atau bisa juga digunakan untuk membuat kode HTML tersebut tidak tereksekusi/tampil. Contoh, kode asli `<p>This <!-- great text --> is a paragraph.</p>` jadi
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/0a1b1608-e320-4e8f-b13f-e0709cfa3d66)
 
-* ## HTML Colors
+* ## HTML-Colors
 
   Untuk memberi warna pada elemen HTML. Bisa langsung menyebutkan nama warna, RGB, HEX, maupun HSL
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/d82cd51d-5f2b-46e8-ba01-b98a79b990f8)
 
-* ## HTML CSS
+* ## HTML-CSS
 
   Mengenal CSS dan cara penggunaannya dalam HTML. Contoh, menggunakan internal CSS
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/01e51aff-3aed-4738-82bf-c7b118aa3817)
 
-* ## HTML Links
+* ## HTML-Links
 
   Digunakan untuk menghubungkan suatu halaman dengan halaman lain dengan menggunakan tag `<a>`
 
   ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/be4b2164-add6-4a45-9a9c-7821439648f0)
 
-* ## HTML Images
+* ## HTML-Images
 
   Menampilkan gambar dalam HTML dengan menggunakan tag `<img>`
 
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/7aaaf7b0-9c60-4a00-b355-ac2ecd6c28fb)
+
+* ## HTML-Favicon
+
+  Favicon adalah gambar kecil yang ditampilkan di samping judul halaman pada tab browser. Kita bisa menggantinya lewat HTML
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/b2cef75d-f123-4907-a2c3-bcb8b12513cb)
   
+* ## HTML-Page-Title
+
+  Digunakan untuk mengubah judul halaman web di tag `<title>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/2f5263bc-2fcf-4e60-ab34-914d01eed082)
+
+* ## HTML-Tables
+
+  Membuat tabel dengan tag `<table>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/74a3ee09-ee71-46c3-a138-09a46404e1f0)
+  
+* ## HTML-Lists
+
+  Membuat list. `<ol>` untuk list berurut, `<ul>` untuk list tidak berurut
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/2b9bc6c4-4d00-447f-a030-4a86fccfdddc)
+  
+* ## HTML-Block-Inline
+
+  Setiap elemen HTML memiliki nilai tampilan default, tergantung pada jenis elemennya
+  Dua nilai tampilan yang paling umum adalah blok dan sebaris (inline). Contoh untuk inline adalah tag `<span>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/6dea2c6b-ac8f-44e0-bbcd-00c01df70a7f)
+  
+* ## HTML-Div
+
+  Elemen `<div>` digunakan sebagai wadah untuk elemen HTML lainnya
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/f9b4ec20-2aa4-421a-8efd-3a88583a9942)
+  
+* ## HTML-Classes
+
+  Atribut `class` HTML digunakan untuk menentukan kelas untuk elemen HTML
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/412257c4-90bc-4b4b-b059-c6e7e2ae8d6c)
+  
+* ## HTML-Id
+
+  Atribut `id` HTML digunakan untuk menentukan id unik untuk elemen HTML
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/4fec5615-fdf9-410a-bc50-ee2be152f66d)
+  
+* ## HTML-Iframes
+
+  `Iframe` HTML digunakan untuk menampilkan halaman web di dalam halaman web
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/d459d8f3-8472-4ea5-a07c-57421c7f2fb8)
+  
+* ## HTML-Javascript
+
+  Memasukkan Javascript ke dalam HTML, yang mana bertujuan untuk membuat halaman menjadi lebih dinamis dan interaktif
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/06d73240-b35c-4aa2-8d66-075dfd311364)
+  
+* ## HTML-File-Paths
+
+  `File path` menjelaskan lokasi file dalam struktur folder situs web
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/5c9a1f14-560d-44a1-a87e-dee564e8c533)
+
+* ## HTML-Head
+
+  Elemen HTML `<head>` adalah wadah untuk elemen-elemen berikut: `<title>`, `<style>`, `<meta>`, `<link>`, `<script>`, dan `<base>`
+
+* ## HTML-Layout
+
+  Beberapa lokasi tampilan atau layout dari HTML: `<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, `<footer>`, `<details>`, `<summary>`
+  Contoh dengan membuatnya dengan pemosisian `flexbox`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/aecc931b-30b2-42fc-942b-a483e79b2e48)
+
+* ## HTML-Responsive
+
+  Membuat desain web yang responsif, jadi desain akan mengikuti besar atau kecilnya halaman. Contohnya dengan menggunakan bootstrap
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/011169d2-da75-42c1-96e7-9eda5568df23)
+  
+* ## HTML-Computercode
+
+  HTML berisi beberapa elemen untuk mendefinisikan input pengguna dan kode komputer dengan `<kbd>`, `<samp>`, `<code>`, `<var>`. Contohnya dengan `<var>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/69ee0176-be64-4a33-b79a-e6d7b16b032b)
+  
+* ## HTML-Semantics
+
+  Elemen semantik dengan jelas menjelaskan maknanya kepada browser dan pengembang.
+  Contoh elemen non-semantik: `<div>` dan `<span>` - Tidak menjelaskan apa pun tentang isinya.
+  Contoh elemen semantik: `<form>`, `<tabel>`, dan `<article>` - Mendefinisikan isinya dengan jelas.
+  
+* ## HTML-Style-Guide
+
+  Panduan menulis kode HTML dengan benar agar mudah dibaca dan dimengerti oleh pengembang lainnya
+
+* ## HTML-Entities
+
+  Ada beberapa simbol atau karakter yang sudah dipakai oleh HTML seperti `<` dan `>`
+  Simbol atau karakter itu harus diganti dengan `&lt;` untuk `<` dan `&gt;` untuk `>`
+
+* ## HTML-Symbols
+
+  Simbol atau huruf yang tidak ada di keyboard dapat ditambahkan ke HTML menggunakan entitas, contoh simbol hati atau love
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/56520de9-f87d-4e9f-99c4-2905fcf30f52)
+
+* ## HTML-Emojis
+
+  Emoji adalah karakter dari charset UTF-8. Contoh `&#128512; &#128516; &#128525; &#128151;`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/91e5b27c-3ca7-4ef0-9e0d-b5e457da2817)
+  
+* ## HTML-Charsets
+
+  Untuk menampilkan halaman HTML dengan benar, browser web harus mengetahui charset yang akan digunakan
+  Charset yang biasa digunakan adalah `UTF-8`
+
+* ## HTML-Url-Encode
+
+  Ketika kita menginputkan teks atau tulisan ke browser, browser akan melakukan URL Encode sebelum mengirimkannya ke server
+  Contoh, jika diinputkan teks `Hello Gunter`, browser akan meng-encode-nya menjadi `text=Hello+G%C3%BCnter`
+
+* ## HTML-vs-XHTML
+
+  XHTML adalah versi HTML yang lebih ketat dan lebih berbasis XML. XHTML dikembangkan untuk membuat HTML lebih dapat diperluas dan fleksibel untuk bekerja dengan format data lain (seperti XML)
+  Selain itu, browser mengabaikan kesalahan pada halaman HTML dan mencoba menampilkan situs web meskip terdapat beberapa kesalahan pada markup. Jadi, XHTML hadir dengan penanganan kesalahan yang lebih ketat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

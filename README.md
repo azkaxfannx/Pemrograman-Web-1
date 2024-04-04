@@ -104,7 +104,7 @@
     </li>
     <li>
       <details>
-        <summary><a href="#js">JS</a></summary>
+        <summary><a href="#Javascript">JS</a></summary>
         <ul>
           <li><a href="#js-home">JS Home</a></li>
           <li><a href="#js-introduction">JS Introduction</a></li>

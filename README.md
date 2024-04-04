@@ -7,7 +7,7 @@
   <ol>
     <li>
       <details>
-        <summary><a href="html">HTML</a></summary>
+        <summary><a href="#html">HTML</a></summary>
         <ul>
           <li><a href="#html-home">HTML Home</a></li>
           <li><a href="#html-introduction">HTML Introduction</a></li>
@@ -53,7 +53,7 @@
     </li>
     <li>
       <details>
-        <summary><a href="css">CSS</a></summary>
+        <summary><a href="#css">CSS</a></summary>
         <ul>
           <li><a href="#css-home">CSS Home</a></li>
           <li><a href="#css-introduction">CSS Introduction</a></li>
@@ -104,7 +104,7 @@
     </li>
     <li>
       <details>
-        <summary><a href="js">JS</a></summary>
+        <summary><a href="#js">JS</a></summary>
         <ul>
           <li><a href="#js-home">JS Home</a></li>
           <li><a href="#js-introduction">JS Introduction</a></li>

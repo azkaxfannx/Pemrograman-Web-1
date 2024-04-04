@@ -1,4 +1,4 @@
-![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/06775e3c-7579-4adf-b8e1-f1e99902df20)<a name="readme-top"></a>
+<a name="readme-top"></a>
 
 <h1>Pemrograman Web 1</h1>
 

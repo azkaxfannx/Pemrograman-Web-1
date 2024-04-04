@@ -9,21 +9,21 @@
       <details>
         <summary><a href="#html">HTML</a></summary>
         <ul>
-          <li><a href="#html-home">HTML Home</a></li>
-          <li><a href="#html-introduction">HTML Introduction</a></li>
-          <li><a href="#html-editors">HTML Editors</a></li>
-          <li><a href="#html-basic">HTML Basic</a></li>
-          <li><a href="#html-elements">HTML Elements</a></li>
-          <li><a href="#html-attributes">HTML Attributes</a></li>
-          <li><a href="#html-headings">HTML Headings</a></li>
-          <li><a href="#html-paragraphs">HTML Paragraphs</a></li>
-          <li><a href="#html-styles">HTML Styles</a></li>
-          <li><a href="#html-formatting">HTML Formatting</a></li>
-          <li><a href="#html-quotations">HTML Quotations</a></li>
-          <li><a href="#html-comments">HTML Comments</a></li>
-          <li><a href="#html-colors">HTML Colors</a></li>
-          <li><a href="#html-css">HTML CSS</a></li>
-          <li><a href="#html-links">HTML Links</a></li>
+          <li><a href="#HTML Home">HTML Home</a></li>
+          <li><a href="#HTML Introduction">HTML Introduction</a></li>
+          <li><a href="#HTML Editors">HTML Editors</a></li>
+          <li><a href="#HTML Basic">HTML Basic</a></li>
+          <li><a href="#HTML Elements">HTML Elements</a></li>
+          <li><a href="#HTML Attributes">HTML Attributes</a></li>
+          <li><a href="#HTML Headings">HTML Headings</a></li>
+          <li><a href="#HTML Paragraph">HTML Paragraphs</a></li>
+          <li><a href="#HTML Styles">HTML Styles</a></li>
+          <li><a href="#HTML Formatting">HTML Formatting</a></li>
+          <li><a href="#HTML Quotations">HTML Quotations</a></li>
+          <li><a href="#HTML Comments">HTML Comments</a></li>
+          <li><a href="#HTML Colors">HTML Colors</a></li>
+          <li><a href="#HTML CSS">HTML CSS</a></li>
+          <li><a href="#HTML Links">HTML Links</a></li>
           <li><a href="#html-images">HTML Images</a></li>
           <li><a href="#html-fsvicon">HTML Favicon</a></li>
           <li><a href="#html-page-title">HTML Page Title</a></li>
@@ -186,6 +186,94 @@
 HTML adalah singkatan dari HyperText Markup Language, bahasa standar yang digunakan untuk membuat halaman web. HTML bukan bahasa pemrograman, melainkan bahasa markup, menggunakan tag untuk mendefinisikan struktur dan konten halaman web.
 
 Tag-tag HTML memberitahu browser web bagaimana menampilkan konten halaman web, seperti paragraf, heading, gambar, tautan, dan formulir.
+
+* ### HTML Home
+
+  Mengetahui seperti apa tag HTML dan contoh tampilan dari tag HTML
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/0897811c-0298-4524-9d39-bc39a5e44ab8)
+
+* ### HTML Introduction
+
+  Pengenalan HTML
+
+  Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sedikit tag seperti `<h1>`, `<p>`, dan `<br>`
+
+* ### HTML Editors
+
+  Ada beberapa Code Editor yang biasa digunakan untuk membuat kode HTML, seperti `Sublime Text`, `VSCode`, dll 
+  
+* ### HTML Basic
+
+  Contoh kode basic atau dasar dari HTML
+
+* ### HTML Elements
+
+  Mengenal element-element dari HTML seperti `<h1>`, `<p>`, dan `<br>`
+
+* ### HTML Attributes
+
+  Mengenal atribut-atribut dari HTML seperti `href` dari tag `<a>`, `src` dari tag `<img>`, dll
+
+* ### HTML Headings
+
+  Judul (Heading) atau subjudul yang ingin ditampilkan pada halaman web. Tagnya ada `<h1>` sampai `<h6>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/1ba41c21-d765-48b3-a830-eca8f7c3ea4c)
+
+* ### HTML Paragraph
+
+  Paragraf `<p>` selalu dimulai pada baris baru, dan biasanya berupa blok teks
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/ee511fb0-2307-4009-94b8-7519780ee2ed)
+
+* ### HTML Styles
+
+  Atribut `style` HTML digunakan untuk menambahkan gaya pada sebuah elemen, seperti warna, font, ukuran, dan lainnya. Contohnya, `<h1>` dan `<p>` dipasang `style="text-align:center;"`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/c542c39e-ff4b-4d00-af97-f76bc71c55bb)
+
+* ### HTML Formatting
+
+  HTML memiliki beberapa elemen untuk menampilkan teks dengan gaya khusus, contohnya dengan tag `<sup>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/bb1ba945-9913-42a5-b515-c53e8a2827d3)
+
+* ### HTML Quotations
+
+  Biasa digunakan untuk mengutip teks. Bisa juga untuk memanipulasi tampilan teks. Contoh, memanipulasi tampil teks yang sudah ada agar susunan hurufnya menjadi dari kanan ke kiri dengan `<bdo>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/e86d72d9-6b38-405a-8ecc-0333b5fcad78)
+
+* ### HTML Comments
+
+  Digunakan untuk menambahkan komentar pada kode HTML atau bisa juga digunakan untuk membuat kode HTML tersebut tidak tereksekusi/tampil. Contoh, kode asli `<p>This <!-- great text --> is a paragraph.</p>` jadi
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/0a1b1608-e320-4e8f-b13f-e0709cfa3d66)
+
+* ### HTML Colors
+
+  Untuk memberi warna pada elemen HTML. Bisa langsung menyebutkan nama warna, RGB, HEX, maupun HSL
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/d82cd51d-5f2b-46e8-ba01-b98a79b990f8)
+
+* ### HTML CSS
+
+  Mengenal CSS dan cara penggunaannya dalam HTML. Contoh, menggunakan internal CSS
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/01e51aff-3aed-4738-82bf-c7b118aa3817)
+
+* ### HTML Links
+
+  Digunakan untuk menghubungkan suatu halaman dengan halaman lain dengan menggunakan tag `<a>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/be4b2164-add6-4a45-9a9c-7821439648f0)
+
+* ### HTML Images
+
+  Menampilkan gambar dalam HTML dengan menggunakan tag `<img>`
+
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

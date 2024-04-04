@@ -9,7 +9,7 @@
       <details>
         <summary><a href="#html">HTML</a></summary>
         <ul>
-          <li><a href="#HTML Home">HTML Home</a></li>
+          <li><a href="#HTML-Home">HTML Home</a></li>
           <li><a href="#HTML Introduction">HTML Introduction</a></li>
           <li><a href="#HTML Editors">HTML Editors</a></li>
           <li><a href="#HTML Basic">HTML Basic</a></li>
@@ -187,7 +187,7 @@ HTML adalah singkatan dari HyperText Markup Language, bahasa standar yang diguna
 
 Tag-tag HTML memberitahu browser web bagaimana menampilkan konten halaman web, seperti paragraf, heading, gambar, tautan, dan formulir.
 
-* ## HTML Home
+* ## HTML-Home
 
   Mengetahui seperti apa tag HTML dan contoh tampilan dari tag HTML
 

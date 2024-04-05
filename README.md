@@ -61,20 +61,20 @@
           <li><a href="#CSS-Selectors">CSS Selectors</a></li>
           <li><a href="#CSS-How-To">CSS How To</a></li>
           <li><a href="#CSS-Comments">CSS Comments</a></li>
-          <li><a href="#css-colors">CSS Colors</a></li>
-          <li><a href="#css-backgrounds">CSS Backgrounds</a></li>
-          <li><a href="#css-borders">CSS Borders</a></li>
-          <li><a href="#css-margins">CSS Margins</a></li>
-          <li><a href="#css-padding">CSS Padding</a></li>
-          <li><a href="#css-height-width">CSS Height/Width</a></li>
-          <li><a href="#css-box-model">CSS Box Model</a></li>
-          <li><a href="#css-outline">CSS Outline</a></li>
-          <li><a href="#css-text">CSS Text</a></li>
-          <li><a href="#css-fonts">CSS Fonts</a></li>
-          <li><a href="#css-icons">CSS Icons</a></li>
-          <li><a href="#css-links">CSS Links</a></li>
-          <li><a href="#css-lists">CSS Lists</a></li>
-          <li><a href="#css-tables">CSS Tables</a></li>
+          <li><a href="#CSS-Colors">CSS Colors</a></li>
+          <li><a href="#CSS-Backgrounds">CSS Backgrounds</a></li>
+          <li><a href="#CSS-Borders">CSS Borders</a></li>
+          <li><a href="#CSS-Margins">CSS Margins</a></li>
+          <li><a href="#CSS-Padding">CSS Padding</a></li>
+          <li><a href="#CSS-Height-Width">CSS Height/Width</a></li>
+          <li><a href="#CSS-Box-Model">CSS Box Model</a></li>
+          <li><a href="#CSS-Outline">CSS Outline</a></li>
+          <li><a href="#CSS-Text">CSS Text</a></li>
+          <li><a href="#CSS-Fonts">CSS Fonts</a></li>
+          <li><a href="#CSS-Icons">CSS Icons</a></li>
+          <li><a href="#CSS-Links">CSS Links</a></li>
+          <li><a href="#CSS-Lists">CSS Lists</a></li>
+          <li><a href="#CSS-Tables">CSS Tables</a></li>
           <li><a href="#css-display">CSS Display</a></li>
           <li><a href="#css-max-width">CSS Max-width</a></li>
           <li><a href="#css-position">CSS Position</a></li>
@@ -440,6 +440,93 @@ CSS (Cascading Style Sheets) adalah bahasa pemrograman yang digunakan untuk meng
   Pemakaian CSS bisa dengan inline, internal, eksternal
 
 * ## CSS-Comments
+
+  Berbeda dengan HTML, comment dalam CSS hanya untuk membantu proses dokumentasi saja
+
+* ## CSS-Colors
+
+  Menentukan warna dengan nama warna yang sudah ditentukan sebelumnya, atau nilai RGB, HEX, HSL, RGBA, HSLA
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/33aedf54-61f6-42b9-ab1a-6fc9717ebb85)
+  
+* ## CSS-Backgrounds
+
+  Digunakan untuk mengedit background dengan beberapa properti berikut: ` background-color`, `background-image`, `background-repeat`, `background-attachment`, `background-position`, dll
+  Contoh mengubah background `<p>` dengan image kertas
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/cc8e40d9-3b00-4d32-9fee-c5e6a48d5567)
+  
+* ## CSS-Borders
+
+  Untuk mengubah dan mengedit border dari elemen HTML. Contoh, inilah beberapa style border
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/b3a90b95-4601-472a-9748-62dce18f92fe)
+  
+* ## CSS-Margins
+
+  `Margin` digunakan untuk menciptakan ruang di sekeliling elemen, di luar batas yang ditentukan
+  Terdapat properti untuk mengatur margin pada setiap sisi elemen (`top`, `right`, `bottom`, dan `left`). Contohnya kita mengubah `margin-left`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/fcf3e788-4ee6-4771-9de2-2586387db50a)
+  
+* ## CSS-Padding
+
+  `Padding` digunakan untuk membuat ruang di sekitar konten elemen, di dalam batas yang ditentukan
+  Terdapat sejumlah properti untuk mengatur padding pada tiap sisi elemen (`top`, `right`, `bottom`, dan `left`). Contohnya kita mengubah semua `padding` menjadi `25px`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/024a130f-65c4-447b-be91-7bc35c260cd3)
+  
+* ## CSS-Height-Width
+
+  Properti `width` dan `height` CSS digunakan untuk mengatur tinggi dan lebar elemen. Contohnya mengubah `height` menjadi `100px`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/950f2fca-8802-453a-b616-3ed26123036f)
+  
+* ## CSS-Box-Model
+
+  Dalam CSS, istilah `box model` digunakan ketika berbicara tentang desain dan tata letak
+  `Box model` CSS pada dasarnya adalah sebuah kotak yang membungkus setiap elemen HTML. Terdiri dari: `content`, `padding`, `border`, dan `margin`
+  Contohnya kita mengedit `border`, `padding`, `margin` dari `box model`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/0c8fced4-b1bf-4cbb-8227-0e94e1d9ba7f)
+  
+* ## CSS-Outline
+
+  `Outline` adalah garis yang digambar di sekeliling elemen, di luar `border`, untuk membuat elemen "menonjol". Berikut beberapa style dari `outline`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/4a7b4709-66f0-4454-9569-29142732ac75)
+
+* ## CSS-Text
+
+  CSS memiliki banyak properti untuk memformat teks. Contohnya mengubah warna teks `heading`, `paragraph`, dan `div`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/5153bb58-071d-42f5-96b0-a190be314da3)
+
+* ## CSS-Fonts
+
+  Digunakan untuk mengubah font, baik dari `family`, `size` maupun `style` font dari teks yang digunakan di website. Berikut contohnya menggunakan 3 `font-family` yang berbeda
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/18563278-aeb5-4f24-b7bf-e28b2990e1f1)
+
+* ## CSS-Icons
+
+  Menggunakan `icon` untuk ditampilkan dalam HTML. Contohnya menggunakan `google icon` dan mencoba memberi `style` pada `icon`-nya
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/a4c7fd57-4a93-432f-99de-f03d15ea3aea)
+
+* ## CSS-Links
+
+  Memberi `style` pada link yang sudah ada pada HTML. Contohnya mengubah bentuk `cursor` saat berada di atas link
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/5e0d7410-2754-448c-a63a-5e89173269d1)
+
+* ## CSS-Lists
+
+  Untuk memberi `style` pada list HTML, seperti pada `<ol>` atau `<ul>`. Contohnya memberi `style` pada keduanya
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/770de9e2-0aaf-47da-aebf-3462b2381f34)
+
+* ## CSS-Tables
 
   
 

@@ -122,56 +122,13 @@
           <li><a href="#JS-Data-Types">JS Data Types</a></li>
           <li><a href="#JS-Functions">JS Functions</a></li>
           <li><a href="#JS-Object">JS Object</a></li>
-          <li><a href="#JS-Events">JS Events</a></li>
-          <li><a href="#JS-Strings">JS Strings</a></li>
-          <li><a href="#JS-Numbers">JS Numbers</a></li>
-          <li><a href="#JS-Big-Int">JS BigInt</a></li>
-          <li><a href="#js-number-methods">JS Number Methods</a></li>
-          <li><a href="#js-number-properties">JS Number Properties</a></li>
-          <li><a href="#js-arrays">JS Arrays</a></li>
-          <li><a href="#js-array-methods">JS Array Methods</a></li>
-          <li><a href="#js-array-search">JS Array Search</a></li>
-          <li><a href="#js-array-sort">JS Array Sort</a></li>
-          <li><a href="#js-array-iteration">JS Array Iteration</a></li>
-          <li><a href="#js-array-const">JS Array Const</a></li>
-          <li><a href="#js-dates">JS Dates</a></li>
-          <li><a href="#js-date-formats">JS Date Formats</a></li>
-          <li><a href="#js-date-get-methods">JS Date Get Methods</a></li>
-          <li><a href="#js-date-set-methods">JS Date Set Methods</a></li>
-          <li><a href="#js-math">JS Math</a></li>
-          <li><a href="#js-random">JS Random</a></li>
-          <li><a href="#js-booleans">JS Booleans</a></li>
-          <li><a href="#js-comparisons">JS Comparisons</a></li>
-          <li><a href="#js-if-else">JS If Else</a></li>
-          <li><a href="#js-switch">JS Switch</a></li>
-          <li><a href="#js-loop-for">JS Loop For</a></li>
-          <li><a href="#js-loop-for-in">JS Loop For In</a></li>
-          <li><a href="#js-loop-for-of">JS Loop For Of</a></li>
-          <li><a href="#js-loop-while">JS Loop While</a></li>
-          <li><a href="#js-break">JS Break</a></li>
-          <li><a href="#js-iterable">JS Iterable</a></li>
-          <li><a href="#js-sets">JS Sets</a></li>
-          <li><a href="#js-maps">JS Maps</a></li>
-          <li><a href="#js-typeof">JS Typeof</a></li>
-          <li><a href="#js-type-conversion">JS Type Conversion</a></li>
-          <li><a href="#js-bitwise">JS Bitwise</a></li>
-          <li><a href="#js-regexp">JS RegExp</a></li>
-          <li><a href="#js-precedence">JS Precedence</a></li>
-          <li><a href="#js-errors">JS Errors</a></li>
-          <li><a href="#js-scope">JS Scope</a></li>
-          <li><a href="#js-hoisting">JS Hoisting</a></li>
-          <li><a href="#js-strict-mode">JS Strict Mode</a></li>
-          <li><a href="#js-this-keyword">JS this Keyword</a></li>
-          <li><a href="#js-arrow-function">JS Arrow Function</a></li>
-          <li><a href="#js-classes">JS Classes</a></li>
-          <li><a href="#js-modules">JS Modules</a></li>
-          <li><a href="#js-json">JS JSON</a></li>
-          <li><a href="#js-debugging">JS Debugging</a></li>
-          <li><a href="#js-style-guide">JS Style Guide</a></li>
-          <li><a href="#js-best-practice">JS Best Practice</a></li>
-          <li><a href="#js-mistakes">JS Mistakes</a></li>
-          <li><a href="#js-performance">JS Performance</a></li>
-          <li><a href="#js-reserved-words">JS Reserved Words</a></li>
+          <li><a href="#JS-Arrays">JS Arrays</a></li>
+          <li><a href="#JS-Dates">JS Dates</a></li>
+          <li><a href="#JS-Math">JS Math</a></li>
+          <li><a href="#JS-If-Else">JS If Else</a></li>
+          <li><a href="#JS-Loop-For">JS Loop For</a></li>
+          <li><a href="#JS-Errors">JS Errors</a></li>
+          <li><a href="#JS-Classes">JS Classes</a></li>
         </ul>
       </details>
     </li>
@@ -760,22 +717,135 @@ JavaScript dijalankan di sisi klien, yang berarti kode JS dieksekusi di browser 
 
 * ## JS-Operators
 
+  Operator Javascript digunakan untuk melakukan berbagai jenis komputasi matematis dan logis
+  Contoh:
+  1. Operator Penugasan/Assignment `=` memberikan nilai
+  2. Operator Penjumlahan `+` menambahkan nilai
+  3. Operator Perkalian `*` mengalikan nilai
+  4. Operator Perbandingan `>` membandingkan nilai
+
 * ## JS-Arithmetic
+
+  Operator `arithmetic` melakukan aritmatika pada angka (literal atau variabel). Contoh `let x = 100 + 50`, `let x = 150`
 
 * ## JS-Assignment
 
+  Operator `assignment` memberikan nilai pada variabel JavaScript. Contoh `let x = 10`
+
 * ## JS-Data-Types
+
+  JavaScript memiliki 8 Tipe Data:
+   1. String
+   2. Number/Int
+   3. Bigint
+   4. Boolean
+   5. Undefined
+   6. Null
+   7. Symbol
+   8. Object
+ 
+  Contohnya `let x = "Azka"`, `"Azka"` tipe datanya adalah `string`
 
 * ## JS-Functions
 
+  `Function` JavaScript adalah sebuah blok kode yang dirancang untuk melakukan tugas tertentu. `Function` JavaScript dijalankan ketika dipanggil
+  Contoh `function myFunction(p1, p2) {
+              return p1 * p2;
+          }`
+
+  `myFunction(10, 10)`
+
 * ## JS-Object
 
-* ## JS-Events
+  `Object` adalah konsep fundamental yang digunakan untuk menyimpan koleksi terstruktur dari data. Berbeda dengan tipe data primitif (seperti `int`, `string`, dan `boolean`) yang hanya bisa menampung satu nilai,    `object` bisa menampung banyak pasangan key-value
 
-* ## JS-Strings
+  Contoh: `const person = {
+              firstName: "John",
+              lastName: "Doe",
+              age: 50,
+              eyeColor: "blue"
+          };
+          `
 
-* ## JS-Numbers
+  Cara memanggil: `objectName.propertyName`
 
-* ## JS-Big-Int
+  Contoh: `person.lastName`
+
+* ## JS-Arrays
+
+  `Array` adalah variabel khusus, yang dapat menampung lebih dari satu nilai. Contoh `const cars = ["Saab", "Volvo", "BMW"];`
+  Contoh cara mengakses `array`: `cars[0]` = `"Saab"`
+  
+* ## JS-Dates
+
+  `Function` bawaan JS untuk melihat tanggal lengkap. Contoh: `const d = new Date()`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/218b1103-33c4-4e8d-a187-4941f280f6c5)
+
+* ## JS-Math
+
+  Objek `JavaScript Math` memungkinkan kita melakukan tugas matematika pada angka. Contoh: `Math.sign` untuk mengecek dan mengembalikan nilai apakah x itu positif, null, atau negatif
+  `Math.sign(5)`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/d620605e-7a9b-4ae4-a85e-306300763a23)
+  
+* ## JS-If-Else
+
+  `Conditional statement` digunakan untuk melakukan tindakan yang berbeda berdasarkan kondisi yang berbeda
+  Contoh: `if (condition) {
+    //  blok ini akan tereksekusi jika kondisinya terpenuhi/true
+  } else {
+    //  blok ini akan tereksekusi jika kondisinya tidak terpenuhi/false
+  }`
+
+  Contoh kode ini:
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/e4d6dc3f-696c-478f-b423-4faa7a8c919f)
+
+  Outputnya:
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/e7f979a8-89a2-4e12-98fa-1ca366fdebc6)
+
+
+* ## JS-Loop-For
+
+  `Loop` dapat mengeksekusi sebuah blok kode beberapa kali
+  Contoh dengan `for`: ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/53d465e2-2f39-4a6c-90f1-3e963250a12c)
+
+  Output: ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/2f5b3c1a-1db1-4675-9d7d-5c3a3c6b641f)
+
+* ## JS-Errors
+
+  Dalam JS ada beberapa jenis error, yaitu `Syntax Error`, `Reference Error`, `Logic Error`, `Runtime Error`
+
+  1. Syntax Errors (Kesalahan Sintaks):
+
+      Error yang paling dasar dan terjadi ketika kode JavaScript tidak mengikuti aturan penulisan yang benar (syntax)
+      Contohnya seperti tanda kurung kurawal yang tidak tertutup, titik koma yang hilang, atau penulisan keyword yang salah
+      Biasanya error ini mudah diidentifikasi karena browser atau development tool akan menampilkan pesan error yang spesifik beserta baris kode yang bermasalah
+
+  2. Reference Errors (Kesalahan Referensi):
+
+      Terjadi ketika mencoba mengakses sebuah variabel atau function yang belum dideklarasikan sebelumnya
+      Biasanya error ini muncul karena salah ketik nama variabel atau function, atau ketika mencoba mengakses sebelum definisinya dieksekusi
+
+  3. Logic Errors (Kesalahan Logika):
+
+      Error yang paling sulit dideteksi karena mungkin kode secara sintaks benar, namun menghasilkan output yang tidak sesuai dengan logika yang diharapkan
+      Biasanya error ini membutuhkan proses debugging yang cermat untuk menemukan kesalahan dalam alur logika program.
+
+  4. Runtime Errors (Kesalahan Runtime):
+
+      Error ini terjadi saat program JavaScript sedang dijalankan
+      Contohnya seperti mencoba mengakses elemen array yang tidak ada, atau pembagian dengan angka nol
+
+* ## JS-Classes
+
+  ECMAScript 2015, yang juga dikenal sebagai ES6, memperkenalkan `class` JavaScript
+  `Class` JavaScript adalah template untuk `object` JavaScript
+
+  Bentuk umum: `class ClassName {
+                  constructor() { ... }
+                }`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

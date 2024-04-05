@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/c66011cb-2ecb-42b3-91c0-f21294cfdaa9)<a name="readme-top"></a>
 
 <h1>Pemrograman Web 1</h1>
 
@@ -75,30 +75,30 @@
           <li><a href="#CSS-Links">CSS Links</a></li>
           <li><a href="#CSS-Lists">CSS Lists</a></li>
           <li><a href="#CSS-Tables">CSS Tables</a></li>
-          <li><a href="#css-display">CSS Display</a></li>
-          <li><a href="#css-max-width">CSS Max-width</a></li>
-          <li><a href="#css-position">CSS Position</a></li>
-          <li><a href="#css-z-index">CSS Z-index</a></li>
-          <li><a href="#css-overflow">CSS Overflow</a></li>
-          <li><a href="#css-float">CSS Float</a></li>
-          <li><a href="#css-inline-block">CSS Inline-block</a></li>
-          <li><a href="#css-align">CSS Align</a></li>
-          <li><a href="#css-combinators">CSS Combinators</a></li>
-          <li><a href="#css-pseudo-class">CSS Pseudo-class</a></li>
-          <li><a href="#css-pseudo-element">CSS Pseudo-element</a></li>
-          <li><a href="#css-opacity">CSS Opacity</a></li>
-          <li><a href="#css-navigation-bar">CSS Navigation Bar</a></li>
-          <li><a href="#css-dropdowns">CSS Dropdowns</a></li>
-          <li><a href="#css-image-gallery">CSS Image Gallery</a></li>
-          <li><a href="#css-image-sprites">CSS Image Sprites</a></li>
-          <li><a href="#css-attr-selectors">CSS Attr Selectors</a></li>
-          <li><a href="#css-forms">CSS Forms</a></li>
-          <li><a href="#css-counters">CSS Counters</a></li>
-          <li><a href="#css-website-layout">CSS Website Layout</a></li>
-          <li><a href="#css-units">CSS Units</a></li>
-          <li><a href="#css-specificity">CSS Specificity</a></li>
-          <li><a href="#css-!important">CSS !Important</a></li>
-          <li><a href="#css-math-function">CSS Math Function</a></li>
+          <li><a href="#CSS-Display">CSS Display</a></li>
+          <li><a href="#CSS-Max-Width">CSS Max-width</a></li>
+          <li><a href="#CSS-Position">CSS Position</a></li>
+          <li><a href="#CSS-Z-Index">CSS Z-index</a></li>
+          <li><a href="#CSS-Overflow">CSS Overflow</a></li>
+          <li><a href="#CSS-Float">CSS Float</a></li>
+          <li><a href="#CSS-Inline-Block">CSS Inline-block</a></li>
+          <li><a href="#CSS-Align">CSS Align</a></li>
+          <li><a href="#CSS-Combinators">CSS Combinators</a></li>
+          <li><a href="#CSS-Pseudo-Class">CSS Pseudo-class</a></li>
+          <li><a href="#CSS-Pseudo-Element">CSS Pseudo-element</a></li>
+          <li><a href="#CSS-Opacity">CSS Opacity</a></li>
+          <li><a href="#CSS-Navigation-Bar">CSS Navigation Bar</a></li>
+          <li><a href="#CSS-Dropdowns">CSS Dropdowns</a></li>
+          <li><a href="#CSS-Image-Gallery">CSS Image Gallery</a></li>
+          <li><a href="#CSS-Image-Sprites">CSS Image Sprites</a></li>
+          <li><a href="#CSS-Attr-Selectors">CSS Attr Selectors</a></li>
+          <li><a href="#CSS-Forms">CSS Forms</a></li>
+          <li><a href="#CSS-Counters">CSS Counters</a></li>
+          <li><a href="#CSS-Website-Layout">CSS Website Layout</a></li>
+          <li><a href="#CSS-Units">CSS Units</a></li>
+          <li><a href="#CSS-Specificity">CSS Specificity</a></li>
+          <li><a href="#CSS-!Important">CSS !Important</a></li>
+          <li><a href="#CSS-Math-Function">CSS Math Function</a></li>
         </ul>
       </details>
     </li>
@@ -528,8 +528,189 @@ CSS (Cascading Style Sheets) adalah bahasa pemrograman yang digunakan untuk meng
 
 * ## CSS-Tables
 
-  
+  Mengubah dan memberi `style` pada tabel HTML. Contohnya mengubah `border` pada tabel
 
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/a3aef73d-6f4c-46e3-8f5a-50d119c94cdb)
+
+* ## CSS-Display
+
+  Properti `display` digunakan untuk menentukan bagaimana sebuah elemen ditampilkan pada halaman web
+  Setiap elemen HTML memiliki nilai tampilan default, tergantung pada jenis elemennya. Nilai tampilan default untuk sebagian besar elemen adalah `block` atau `inline`
+  Properti tampilan digunakan untuk mengubah perilaku tampilan default elemen HTML
+  Contohnya menyembunyikan suatu elemen dengan `visibility: hidden`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/8e30c4ab-417d-4cd9-b3c9-98c9988f43ae)
+
+* ## CSS-Max-Width
+
+  Digunakan untuk `width` yang lebih fleksibel, yang mana mengacu pada `width` maksimal dari elemen tersebut
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/e8c1fa0a-c510-4fee-b20c-09d7cd202ec7)
+
+* ## CSS-Position
+
+  Properti `position` menentukan jenis metode pemosisian yang digunakan untuk suatu elemen (`static`, `relative`, `fixed`, `absolute`, atau `sticky`)
+  Contohnya menggunakan `sticky`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/f261cf4f-32f9-4e9f-a8e1-46e11a3612f5)
+
+* ## CSS-Z-Index
+
+  Properti `Z-index` menentukan urutan tumpukan elemen
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/787fc4cf-f6fb-4bed-b01c-4a3fe5bd8c08)
+
+* ## CSS-Overflow
+
+  Properti `overflow` CSS mengontrol konten yang terlalu besar untuk dimasukkan ke dalam suatu area
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/adfabf60-7fdd-4081-9e35-6fbf6106b740)
+
+* ## CSS-Float
+
+  Properti `float` CSS menentukan bagaimana sebuah elemen harus mengambang
+  Properti `clear` CSS menentukan elemen yang dapat mengapung di samping elemen yang dihapus dan di sebelah mana
+  Contohnya setiap elemen saling mengambang di samping elemen lain
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/6bdcd14b-696b-437b-b14a-010e5fe9fd8b)
+
+* ## CSS-Inline-Block
+
+  Dibandingkan dengan `display: inline`, perbedaan utamanya adalah `display: inline-block` memungkinkan untuk mengatur lebar dan tinggi pada elemen
+  Selain itu, dengan `display: inline-block`, margin/penambahan atas dan bawah jelas, tetapi dengan `display: inline` tidak
+  Dibandingkan dengan `display: block`, perbedaan utamanya adalah `display: inline-block` tidak menambahkan pemisah baris setelah elemen, sehingga elemen dapat diletakkan di samping elemen lain
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/94689bec-95aa-4961-8364-5c014826493a)
+
+* ## CSS-Align
+
+  Untuk mengatur posisi dan sejajarnya suatu elemen HTML. Contohnya dengan `flexbox` dan align `center`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/ee1ce725-b4c7-49f7-a763-bff1758a4fea)
+
+* ## CSS-Combinators
+
+  Selektor CSS dapat berisi lebih dari satu selektor sederhana. Di antara selektor sederhana, kita dapat menyertakan kombinator. Ada empat kombinator yang berbeda dalam CSS:
+  1. `descendant selector` (spasi)
+  2. `child selector` (>)
+  3. `adjacent sibling selector` (+)
+  4. `general sibling selector` (~)
+ 
+  Contohnya menggunakan `general sibling selector`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/8c0b84fe-c02d-47b7-b729-5b3ccacc770c)
+
+* ## CSS-Pseudo-Class
+
+  `Pseudo Class` digunakan untuk mendefinisikan keadaan khusus suatu elemen
+  Misalnya, `class` ini dapat digunakan untuk:
+  1. Memberi `style` pada elemen saat pengguna mengarahkan kursor ke elemen tersebut
+  2. Memberi `style` pada tautan yang dikunjungi dan tidak dikunjungi secara berbeda
+  3. Memberi `style` pada elemen saat elemen tersebut difokuskan
+
+  Contohnya menggunakan `:lang no` untuk menampilkan `~`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/f9c20f2b-3162-44d5-bf30-0bdfbbae6998)
+
+* ## CSS-Pseudo-Element
+
+  `Pseudo Element` CSS digunakan untuk memberi `style` pada bagian tertentu dari suatu elemen
+  Misalnya, elemen ini dapat digunakan untuk:
+  1. Memberi `style` pada huruf pertama, atau baris, dari sebuah elemen
+  2. Menyisipkan konten sebelum, atau sesudah, konten elemen
+  
+  Contohnya menggunakan `::selection` untuk menyeleksi
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/fde2b9c9-b422-4c38-af01-78a9094f4f05)
+
+* ## CSS-Opacity
+
+  Properti `opacity` menentukan `opacity`/transparansi suatu elemen
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/692a85a4-ee7d-47d7-9e69-8280370ac005)
+
+* ## CSS-Navigation-Bar
+
+  Untuk memberi `style` pada navbar HTML. Contohnya menghapus tanda dari list `<ul>`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/81eda208-3d56-407d-8e05-6e2cbe4472f0)
+
+* ## CSS-Dropdowns
+
+  Untuk memberi `style` pada `dropdowns` HTML. Contohnya memberi `hover` lalu baru menampilkan menu `dropdown`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/9536f52e-4d90-4681-b1cf-22fce1a196c7)
+
+* ## CSS-Image-Gallery
+
+  CSS bisa digunakan untuk membuat `Image Gallery` termasuk menambahkan deskripsi untuk fotonya
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/7b80074b-8c6f-4151-9644-85761bfe92df)
+
+* ## CSS-Image-Sprites
+
+  `Image Sprites` adalah kumpulan gambar yang dimasukkan ke dalam satu gambar. Halaman web dengan banyak gambar dapat memakan waktu lama untuk dimuat dan menghasilkan banyak permintaan server
+  Menggunakan sprite gambar akan mengurangi jumlah permintaan server dan menghemat bandwidth
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/7a5e3fd5-e649-42ee-8db0-6d3c2dbdb779)
+
+* ## CSS-Attr-Selectors
+
+  Bisa untuk styling elemen HTML yang memiliki atribut atau nilai atribut tertentu. Contohnya attribute `<input>` (`type="text"` dan `type="button"`)
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/65b8ddd8-ef42-4d82-a333-15cf3c53a26e)
+
+* ## CSS-Forms
+
+  Untuk memberi `style` pada `form` HTML. Contohnya styling `button`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/9d1ce9b2-e4a8-4bd3-9aef-25a05089af6f)
+
+* ## CSS-Counters
+
+  `CSS Counters` adalah "variabel" yang dikelola oleh CSS yang nilainya dapat ditambah dengan aturan CSS (untuk melacak berapa kali digunakan). `Counters` memungkinkan kita menyesuaikan tampilan
+  konten berdasarkan penempatannya di dalam dokumen
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/7920f984-feec-4f92-9140-30175b5698d2)
+
+* ## CSS-Website-Layout
+
+  Digunakan untuk memberi `style` pada layout website
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/f4529869-0b1c-4567-8608-eb5f3ffddca3)
+
+* ## CSS-Units
+
+  Satuan baik panjang, besar, maupun lebar dalam CSS. Contohnya dengan `px`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/b30a08ff-e6be-429d-bd44-3d0fbe8aa876)
+
+* ## CSS-Specificity
+
+  Setiap selektor CSS memiliki tempatnya di dalam hierarki kekhususan
+  Ada empat kategori yang menentukan tingkat kekhususan selektor:
+  1. `Inline styles` - Contoh: `<h1 style="color: pink;">`
+  2. `ID` - Contoh: `#navbar`
+  3. `Class`, `pseudo class`, `attribute selector` - Contoh: `.test`, `:hover`, `[href]`
+  4. `Element` dan `pseudo element` - Contoh: `h1`, `::before`
+ 
+  Contohnya selektor `class` lebih tinggi dari selektor elemen
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/d3957752-caaf-4aab-aef2-2b10ee8d0372)
+
+* ## CSS-!Important
+
+  Rule `!important` dalam CSS digunakan untuk menambahkan lebih banyak kepentingan pada sebuah properti/nilai dari biasanya
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/a6525178-2c1c-40c2-815c-a3e3f18c185e)
+
+* ## CSS-Math-Function
+
+  `Math Function` CSS memungkinkan operasi matematika digunakan sebagai nilai properti. Contohnya dengan `calc()`, `max()`, `min()`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/ab4af7ad-1d09-41e7-b216-0eb09060541d)
+
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Javascript

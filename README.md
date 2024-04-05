@@ -106,16 +106,16 @@
       <details>
         <summary><a href="#Javascript">JS</a></summary>
         <ul>
-          <li><a href="#js-home">JS Home</a></li>
-          <li><a href="#js-introduction">JS Introduction</a></li>
-          <li><a href="#js-where-to">JS Where To</a></li>
-          <li><a href="#js-output">JS Output</a></li>
-          <li><a href="#js-statements">JS Statements</a></li>
-          <li><a href="#js-syntax">JS Syntax</a></li>
-          <li><a href="#js-comments">JS Comments</a></li>
-          <li><a href="#js-variables">JS Variables</a></li>
-          <li><a href="#js-let">JS Let</a></li>
-          <li><a href="#js-const">JS Const</a></li>
+          <li><a href="#JS-Home">JS Home</a></li>
+          <li><a href="#JS-Introduction">JS Introduction</a></li>
+          <li><a href="#JS-Where-To">JS Where To</a></li>
+          <li><a href="#JS-Output">JS Output</a></li>
+          <li><a href="#JS-Statements">JS Statements</a></li>
+          <li><a href="#JS-Syntax">JS Syntax</a></li>
+          <li><a href="#JS-Comments">JS Comments</a></li>
+          <li><a href="#JS-Variables">JS Variables</a></li>
+          <li><a href="#JS-Let">JS Let</a></li>
+          <li><a href="#JS-Const">JS Const</a></li>
           <li><a href="#js-operators">JS Operators</a></li>
           <li><a href="#js-arithmetic">JS Arithmetic</a></li>
           <li><a href="#js-assignment">JS Assignment</a></li>
@@ -195,9 +195,7 @@ Tag-tag HTML memberitahu browser web bagaimana menampilkan konten halaman web, s
 
 * ## HTML-Introduction
 
-  Pengenalan HTML
-
-  Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sedikit tag seperti `<h1>`, `<p>`, dan `<br>`
+  Pengenalan HTML. Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sedikit tag seperti `<h1>`, `<p>`, dan `<br>`
 
 * ## HTML-Editors
 
@@ -421,9 +419,7 @@ CSS (Cascading Style Sheets) adalah bahasa pemrograman yang digunakan untuk meng
 
 * ## CSS-Introduction
 
-  Pengenalan CSS
-
-  Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sedikit elemen seperti `background-color`, `color`, dan `text-align`
+  Pengenalan CSS. Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sedikit elemen seperti `background-color`, `color`, dan `text-align`
 
 * ## CSS-Syntax
 
@@ -718,5 +714,51 @@ CSS (Cascading Style Sheets) adalah bahasa pemrograman yang digunakan untuk meng
 JavaScript adalah bahasa pemrograman dinamis yang digunakan untuk menambahkan fungsionalitas interaktif ke halaman web. Javascript memungkinkan kita membuat elemen web yang dinamis dan responsif, seperti menu drop-down, animasi, game web, dan aplikasi web interaktif lainnya.
 
 JavaScript dijalankan di sisi klien, yang berarti kode JS dieksekusi di browser web pengguna. Dengan begitu, kita dapat membuat perubahan real-time pada halaman web tanpa perlu memuat ulang halaman.
+
+* ## JS-Home
+
+  Mengenal sedikit seperti apa program dan sintaks Javascript
+
+* ## JS-Introduction
+
+  Pengenalan Javascript. Masih sama seperti home tadi, tidak ada perbedaan signifikan. Mengenal sintaks dan method Javascript seperti `getElementById`
+
+* ## JS-Where-To
+
+  Letak Javascript pada HTML adalah di dalam tag `<script>`. Tag tersebut bisa ditaruh di `<head>` ataupun `<body>`
+
+* ## JS-Output
+
+  Untuk menampilkan `output` atau keluaran dari Javascript. Contohnya dengan `console.log()`
+
+  ![image](https://github.com/azkaxfannx/pemrograman-web-1/assets/74809660/3441cde0-f960-4db8-b89c-a915c0e177a5)
+
+* ## JS-Statements
+
+  Program dari Javascript itu sendiri, contohnya deklarasi variabel
+
+  `let x = 5`
+
+* ## JS-Syntax
+
+  Cara penulisan `syntax` Javascript yang baik dan benar, contohnya seperti penggunaan semicolon `;` (meski tidak wajib), dll
+
+* ## JS-Comments
+
+  `Comment` dalam Javascript juga berfungsi untuk membuat dokumentasi ataupun membuat kode tidak tereksekusi. Ada dua tipe `comment` dalam Javascript, yaitu `Single Line Comment //` dan `Multi Line Comment /* */`
+
+* ## JS-Variables
+
+  Variabel dalam JS dapat dideklarasikan dengan 4 cara: Otomatis, menggunakan `var`, menggunakan `let`, menggunakan `const`
+
+* ## JS-Let
+
+  Keyword `let` diperkenalkan di ES6 (2015). Variabel yang dideklarasikan dengan `let` memiliki `Block Scope`. Variabel yang dideklarasikan dengan `let` harus dideklarasikan sebelum digunakan. Variabel
+  yang dideklarasikan dengan `let` tidak dapat dideklarasikan ulang dalam lingkup yang sama
+
+* ## JS-Const
+
+  Keyword `const` diperkenalkan di ES6 (2015). Variabel yang didefinisikan dengan `const` tidak dapat dideklarasikan ulang. Variabel yang didefinisikan dengan `const` tidak dapat ditugaskan ulang. Variabel
+  yang didefinisikan dengan `const` memiliki `Block Scope`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

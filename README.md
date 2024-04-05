@@ -116,19 +116,16 @@
           <li><a href="#JS-Variables">JS Variables</a></li>
           <li><a href="#JS-Let">JS Let</a></li>
           <li><a href="#JS-Const">JS Const</a></li>
-          <li><a href="#js-operators">JS Operators</a></li>
-          <li><a href="#js-arithmetic">JS Arithmetic</a></li>
-          <li><a href="#js-assignment">JS Assignment</a></li>
-          <li><a href="#js-data-types">JS Data Types</a></li>
-          <li><a href="#js-functions">JS Functions</a></li>
-          <li><a href="#js-object">JS Object</a></li>
-          <li><a href="#js-events">JS Events</a></li>
-          <li><a href="#js-strings">JS Strings</a></li>
-          <li><a href="#js-string-methods">JS String Methods</a></li>
-          <li><a href="#js-string-search">JS String Search</a></li>
-          <li><a href="#js-string-templates">JS String Templates</a></li>
-          <li><a href="#js-numbers">JS Numbers</a></li>
-          <li><a href="#js-big-int">JS BigInt</a></li>
+          <li><a href="#JS-Operators">JS Operators</a></li>
+          <li><a href="#JS-Arithmetic">JS Arithmetic</a></li>
+          <li><a href="#JS-Assignment">JS Assignment</a></li>
+          <li><a href="#JS-Data-Types">JS Data Types</a></li>
+          <li><a href="#JS-Functions">JS Functions</a></li>
+          <li><a href="#JS-Object">JS Object</a></li>
+          <li><a href="#JS-Events">JS Events</a></li>
+          <li><a href="#JS-Strings">JS Strings</a></li>
+          <li><a href="#JS-Numbers">JS Numbers</a></li>
+          <li><a href="#JS-Big-Int">JS BigInt</a></li>
           <li><a href="#js-number-methods">JS Number Methods</a></li>
           <li><a href="#js-number-properties">JS Number Properties</a></li>
           <li><a href="#js-arrays">JS Arrays</a></li>
@@ -754,11 +751,31 @@ JavaScript dijalankan di sisi klien, yang berarti kode JS dieksekusi di browser 
 * ## JS-Let
 
   Keyword `let` diperkenalkan di ES6 (2015). Variabel yang dideklarasikan dengan `let` memiliki `Block Scope`. Variabel yang dideklarasikan dengan `let` harus dideklarasikan sebelum digunakan. Variabel
-  yang dideklarasikan dengan `let` tidak dapat dideklarasikan ulang dalam lingkup yang sama
+  yang dideklarasikan dengan `let` tidak dapat dideklarasikan ulang dalam lingkup yang sama. Contoh `let x = 5`
 
 * ## JS-Const
 
   Keyword `const` diperkenalkan di ES6 (2015). Variabel yang didefinisikan dengan `const` tidak dapat dideklarasikan ulang. Variabel yang didefinisikan dengan `const` tidak dapat ditugaskan ulang. Variabel
-  yang didefinisikan dengan `const` memiliki `Block Scope`
+  yang didefinisikan dengan `const` memiliki `Block Scope`. Contoh `const x = 5`
+
+* ## JS-Operators
+
+* ## JS-Arithmetic
+
+* ## JS-Assignment
+
+* ## JS-Data-Types
+
+* ## JS-Functions
+
+* ## JS-Object
+
+* ## JS-Events
+
+* ## JS-Strings
+
+* ## JS-Numbers
+
+* ## JS-Big-Int
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
